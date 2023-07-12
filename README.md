@@ -1,3 +1,3 @@
-# Test
+# Ron's Favorite Hobbies
 Kash Site
-![Professional Picture](ronald.jpg)
+![My Professional Headshot](ronald.jpg)
