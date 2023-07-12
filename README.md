@@ -1,3 +1,3 @@
 # Test
 Kash Site
-![Professional Picture](ronald.jpg)
+![Professional Picture](ronald.jpeg)
